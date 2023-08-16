@@ -1,11 +1,11 @@
 # Zhiwei Cao (曹志伟)
 
-* I am a 1st-year Ph.D. student in Computer Science & Engineering at University of Michigan as a member of the [LAUNCH](https://launch.eecs.umich.edu/home) lab, supervised by Prof. [Lu Wang](https://web.eecs.umich.edu/~wangluxy/index.html). My research interests lie in subfields of Natural Language Processing, such as Language Generation, Machine Translation, and Question Answering. Previously, I received my master and bachelor degree at Xiamen University, where I was advised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
+* I am a 2nd-year M.S. student in Software Engineering at Xiamen University, supervised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). My research interests lie in subfields of Natural Language Processing, such as Text Generation, Machine Translation, and Retrieval-Augmented Language Model. Previously, I received my master degree at Xiamen University.
 * **Email**: lines1@stu.mu.edu.cn
 * [Google Scholar](https://scholar.google.com/citations?user=lUg6L5cAAAAJ&hl=zh-CN)
 
 ## Research Fields
-Natural Languagle Processing, Machine Translation, Pretrained Language Model, Retrieval-Augmented Language Model
+Natural Languagle Processing, Text Generation, Machine Translation, Retrieval-Augmented Language Model
 
 ## Education
 * [Aug 2021-Jun 2024] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).

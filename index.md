@@ -15,8 +15,9 @@
 * [Aug 2017-Jun 2021] B.S. in Software Engineering, Xiamen University.
 
 ## Internship Experience
-* [Jul 2022-present] Research Intern in Alibaba Damo Academy. Advisor: Dr. [Baosong Yang](https://baosongyang.site/).
-* [Mar 2019-Feb 2020] Research Intern in AIG Department of Baidu. Advisor: Dr. [Xinyan Xiao](https://scholar.google.com/citations?hl=zh-CN&user=lWRYa3wAAAAJ).
+* [Jun 2023-present] Research Intern in AI-Lab Bytedance. Supervisor: Dr. [Shanbo Cheng](https://scholar.google.com/citations?hl=zh-CN&user=CYUBKN0AAAAJ).
+* [Jul 2022-Jun 2023] Research Intern in Alibaba Damo Academy. Supervisor: Dr. [Baosong Yang](https://baosongyang.site/).
+* [Nov 2020-May 2021] Research Intern in AIG Department of Baidu. Supervisor: Dr. [Xinyan Xiao](https://scholar.google.com/citations?hl=zh-CN&user=lWRYa3wAAAAJ).
 
 ## Publications
 * **Zhiwei Cao**, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su. [Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation](https://aclanthology.org/2023.acl-long.321/). _In the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)_

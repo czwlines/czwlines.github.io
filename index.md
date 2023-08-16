@@ -8,7 +8,6 @@
 
 ## News
 * [May 2023] Paper [Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation](https://aclanthology.org/2023.acl-long.321/) gets accecpted by ACL 2023.
-* [May 2023] Paper [Controllable Dialogue Generation With Disentangled Multi-Grained Style Specification and Attribute Consistency Reward](https://ieeexplore.ieee.org/document/9944920) gets accecpted by TASLP 2022.
 
 ## Education
 * [Aug 2021-Jun 2024] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).

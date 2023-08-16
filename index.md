@@ -4,9 +4,6 @@
 * **Email**: lines1{at}stu{dot}xmu{dot}edu{dot}cn
 * [Google Scholar](https://scholar.google.com/citations?user=lUg6L5cAAAAJ&hl=zh-CN)
 
-## Research Fields
-Natural Languagle Processing, Text Generation, Machine Translation, Retrieval-Augmented Language Model
-
 ## Education
 * [Aug 2021-Jun 2024] M.S. in Software Engineering, Xiamen University. Advisor: Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm).
 * [Aug 2017-Jun 2021] B.S. in Software Engineering, Xiamen University.

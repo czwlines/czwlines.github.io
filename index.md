@@ -1,6 +1,6 @@
-# Zhiwei Cao (曹志伟)
+# Zhiwei Cao, 曹志伟
 
-* I am a 2nd-year M.S. student in Software Engineering at Xiamen University, supervised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). My research interests lie in subfields of Natural Language Processing, such as Text Generation, Machine Translation, and Retrieval-Augmented Language Model. Previously, I received my master degree at Xiamen University.
+* I am a 3rd-year M.S. student in Software Engineering at Xiamen University, supervised by Prof. [Jinsong Su](https://cdmc.xmu.edu.cn/info/1010/1054.htm). My research interests lie in subfields of Natural Language Processing, such as Text Generation, Machine Translation, and Retrieval-Augmented Language Models. Previously, I received my master's degree at Xiamen University.
 * **Email**: lines1@stu.xmu.edu.cn
 * [Google Scholar](https://scholar.google.com/citations?user=lUg6L5cAAAAJ&hl=zh-CN)
 

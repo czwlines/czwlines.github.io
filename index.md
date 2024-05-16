@@ -15,7 +15,7 @@
 
 ## Publications
 * **Zhiwei Cao\***, Qian Cao*, Yu Lu, Ningxin Peng, Luyang Huang, Shanbo Cheng, Jinsong Su. [Retaining Key Information under High Compression Rates: Query-Guided Compressor for LLMs](https://openreview.net/forum?id=z9FgnjTqce). _ACL 2024_
-* Yan Gao, **Zhiwei Cao\***, Zhongjian Miao, Baosong Yang, Shiyu Liu, Min Zhang, Jinsong Su. [Efficient $k$-Nearest-Neighbor Machine Translation with Dynamic Retrieval](https://openreview.net/forum?id=hESRmElqeE). _ACL 2024 Findings_
+* Yan Gao*, **Zhiwei Cao\***, Zhongjian Miao, Baosong Yang, Shiyu Liu, Min Zhang, Jinsong Su. [Efficient $k$-Nearest-Neighbor Machine Translation with Dynamic Retrieval](https://openreview.net/forum?id=hESRmElqeE). _ACL 2024 Findings_
 * **Zhiwei Cao**, Baosong Yang, Huan Lin, Suhang Wu, Xiangpeng Wei, Dayiheng Liu, Jun Xie, Min Zhang, Jinsong Su. [Bridging the Domain Gaps in Context Representations for k-Nearest Neighbor Neural Machine Translation](https://aclanthology.org/2023.acl-long.321/). _ACL 2023_
 * Xiangpeng Wei, Haoran Wei, Huan Lin, Tianhao Li, Pei Zhang, Xingzhang Ren, Mei Li, Yu Wan, **Zhiwei Cao**, Binbin Xie, Tianxiang Hu, Shangjie Li, Binyuan Hui, Bowen Yu, Dayiheng Liu, Baosong Yang, Fei Huang, Jun Xie. [PolyLM: An Open Source Polyglot Large Language Model](https://arxiv.org/abs/2307.06018). _preprint_
 * Zhe Hu*, **Zhiwei Cao\***, Hou Pong Chan, Jiachen Liu, Xinyan Xiao, Jinsong Su, Hua Wu. [Controllable Dialogue Generation with Disentangled Multi-grained Style Specification and Attribute Consistency Reward](https://ieeexplore.ieee.org/document/9944920). _TASLP 2022_
